@@ -25,9 +25,7 @@ __pycache__/
 
 mlartifacts/
 
-models/*.pkl
-models/*.h5
-models/*.keras
+
 
 # =========================
 # Generated Artifacts
