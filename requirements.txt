@@ -1,8 +1,20 @@
+# MLflow and MLOps
 mlflow
+docker
+
+# Machine Learning
+scikit-learn
 numpy
 pandas
-scikit-learn
+tensorflow
+
+# Visualization
 matplotlib
 seaborn
+plotly
+
+# Model Serialization
 joblib
-docker
+
+# Utilities
+python-dotenv
