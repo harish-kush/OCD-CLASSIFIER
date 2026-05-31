@@ -22,7 +22,7 @@ __pycache__/
 # =========================
 # MLflow
 # =========================
-mlruns/
+
 mlartifacts/
 
 models/*.pkl

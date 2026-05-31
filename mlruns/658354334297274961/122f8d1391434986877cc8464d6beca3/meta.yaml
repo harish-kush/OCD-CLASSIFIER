@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ASUS/OneDrive/Desktop/ocd vs non ocd classifier/mlruns/658354334297274961/122f8d1391434986877cc8464d6beca3/artifacts
+end_time: 1780232661790
+entry_point_name: ''
+experiment_id: '658354334297274961'
+lifecycle_stage: active
+run_id: 122f8d1391434986877cc8464d6beca3
+run_name: evaluation
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1780232654608
+status: 3
+tags: []
+user_id: ASUS

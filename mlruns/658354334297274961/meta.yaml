@@ -1,0 +1,8 @@
+artifact_location: file:///C:/Users/ASUS/OneDrive/Desktop/ocd vs non ocd classifier/mlruns/658354334297274961
+creation_time: 1780231751579
+experiment_id: '658354334297274961'
+last_update_time: 1780231751579
+lifecycle_stage: active
+name: LSTM
+trace_location: null
+workspace: default

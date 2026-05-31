@@ -1,0 +1,16 @@
+creation_timestamp: 1780233064440
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1780233064440
+model_id: m-1f1dea4d4cc5418392009be9a2686096
+name: BiLSTM Model
+run_id: bb554e047879428a931ee07f228b88d7
+run_link: ''
+source: models:/m-1f1dea4d4cc5418392009be9a2686096
+status: READY
+status_message: null
+storage_location: file:///C:/Users/ASUS/OneDrive/Desktop/ocd vs non ocd classifier/mlruns/930990011846581303/models/m-1f1dea4d4cc5418392009be9a2686096/artifacts
+user_id: null
+version: 1
+workspace: default

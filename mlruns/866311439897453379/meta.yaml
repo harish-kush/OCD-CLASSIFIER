@@ -1,0 +1,8 @@
+artifact_location: file:///C:/Users/ASUS/OneDrive/Desktop/ocd vs non ocd classifier/mlruns/866311439897453379
+creation_time: 1780231751560
+experiment_id: '866311439897453379'
+last_update_time: 1780231751560
+lifecycle_stage: active
+name: Random Forest
+trace_location: null
+workspace: default

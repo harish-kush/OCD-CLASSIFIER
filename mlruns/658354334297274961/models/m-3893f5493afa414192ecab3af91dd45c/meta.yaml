@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ASUS/OneDrive/Desktop/ocd vs non ocd classifier/mlruns/658354334297274961/models/m-3893f5493afa414192ecab3af91dd45c/artifacts
+creation_timestamp: 1780232654760
+experiment_id: '658354334297274961'
+last_updated_timestamp: 1780232661773
+model_id: m-3893f5493afa414192ecab3af91dd45c
+model_type: null
+name: model
+source_run_id: 122f8d1391434986877cc8464d6beca3
+status: 2
+status_message: null
