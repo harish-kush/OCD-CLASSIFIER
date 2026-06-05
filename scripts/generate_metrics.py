@@ -4,7 +4,7 @@ import numpy as np
 import mlflow
 import mlflow.sklearn
 import mlflow.keras
-
+import dagshub
 from tensorflow import keras
 
 from sklearn.metrics import (
@@ -25,7 +25,13 @@ import seaborn as sns
 # MLflow Setup
 # =====================================================
 
-mlflow.set_tracking_uri("file:./mlruns")
+dagshub.init(
+    repo_owner="harish-kush",
+    repo_name="OCD-CLASSIFIER",
+    mlflow=True
+)
+
+print("Tracking URI:", mlflow.get_tracking_uri())
 
 # =====================================================
 # Paths
