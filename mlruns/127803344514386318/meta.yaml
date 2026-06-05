@@ -1,8 +1,0 @@
-artifact_location: file:///C:/Users/ASUS/OneDrive/Desktop/ocd vs non ocd classifier/mlruns/127803344514386318
-creation_time: 1780231751538
-experiment_id: '127803344514386318'
-last_update_time: 1780231751538
-lifecycle_stage: active
-name: Logistic Regression
-trace_location: null
-workspace: default
