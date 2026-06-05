@@ -1,8 +1,12 @@
+import dagshub
 import mlflow
 
-TRACKING_URI = "file:./mlruns"
-
-mlflow.set_tracking_uri(TRACKING_URI)
+# DagsHub MLflow Tracking
+dagshub.init(
+    repo_owner="harish-kush",
+    repo_name="OCD-CLASSIFIER",
+    mlflow=True
+)
 
 experiments = [
     "Logistic Regression",

@@ -1,5 +1,6 @@
 # MLflow and MLOps
 mlflow
+dagshub
 docker
 
 # Machine Learning
